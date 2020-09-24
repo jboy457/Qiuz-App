@@ -1,8 +1,9 @@
 # first_app
 
-A new Flutter project.
+Quiz Application
 
 ## Getting Started
+First Mobile application
 
 This project is a starting point for a Flutter application.
 
